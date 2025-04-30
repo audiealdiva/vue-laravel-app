@@ -1,6 +1,6 @@
 # **Task Management Application** 📋
 
-A simple web application built with **Laravel** (backend) and **Vue.js** (frontend) for managing tasks and projects. It provides user authentication, CRUD functionality, and advanced features like filtering, search, sorting, and pagination for efficient task management.
+A simple web application built with Laravel (backend) and Vue.js (frontend) for managing tasks and projects. It provides user authentication, CRUD functionality, and advanced features like filtering, search, sorting, and pagination for efficient task management. This project was developed as a learning exercise to deepen practical understanding of Laravel and Vue.js.
 
 ## **Features**
 
